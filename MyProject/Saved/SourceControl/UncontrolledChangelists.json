@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/ayalaIDEALabs/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/ayalaIDEALabs/MyProject/Content/NewLab1.umap",
+				"D:/ayalaIDEALabs/MyProject/Content/PersonalBPs/BP_fireBarrel.uasset",
+				"D:/ayalaIDEALabs/MyProject/Content/PersonalBPs/BP_helloWorld.uasset",
+				"D:/ayalaIDEALabs/MyProject/Content/PersonalBPs/BP_spinningOBJ.uasset",
+				"D:/ayalaIDEALabs/MyProject/Content/PersonalBPs/BP_lightSwitch.uasset",
+				"D:/ayalaIDEALabs/MyProject/Content/PersonalBPs/PickupScoreGame.uasset",
+				"D:/ayalaIDEALabs/MyProject/Content/PersonalBPs/BP_platform.uasset",
+				"D:/ayalaIDEALabs/MyProject/Content/PersonalBPs/BP_pickup.uasset",
+				"D:/ayalaIDEALabs/MyProject/Content/PersonalBPs/BP_sparkPlatform.uasset",
+				"D:/ayalaIDEALabs/MyProject/Content/PersonalMaterials/Hit.uasset",
+				"D:/ayalaIDEALabs/MyProject/Content/PersonalBPs/BP_target.uasset"
+			]
+		}
+	]
+}
